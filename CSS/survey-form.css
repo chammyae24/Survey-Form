@@ -92,9 +92,6 @@ textarea{
 input:focus, select:focus, textarea:focus {
 	outline-color: green;
 }
-input[type='checkbox']:checked, input[type='radio']:checked{
-	background-color: green;
-}
 @media screen and (max-width: 600px){
 	#title{
 		font-size: 15px;
